@@ -1,0 +1,37 @@
+OpenTibia-Development-Portfolio/
+│
+├── README.md
+│
+├── legacy/
+│   ├── 7.x/
+│   ├── 8.4/
+│   ├── 8.6/
+│   └── elfbot-ng/
+│
+├── modern/
+│   ├── canary/
+│   ├── lua/
+│   ├── server-config/
+│   └── database/
+│
+├── server-administration/
+│   ├── linux/
+│   ├── windows/
+│   ├── deployment/
+│   └── automation/
+│
+├── scripting/
+│   ├── lua/
+│   ├── python/
+│   └── bash/
+│
+├── database/
+│   ├── sql/
+│   └── schemas/
+│
+├── documentation/
+│   ├── architecture/
+│   ├── setup/
+│   └── troubleshooting/
+│
+└── screenshots/
